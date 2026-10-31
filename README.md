@@ -25,16 +25,7 @@ This project utilizes the U-Net architecture for image segmentation tasks. U-Net
 ### Prerequisites
 - Python 3.12
 
-### Installation
-1. Clone the repository:
-    ```bash
-    https://github.com/PLSeng/kh-char.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd kh-char
-    ```
-3. Install the required packages:
+### Install the required packages:
     ```bash
     make install
     ```
